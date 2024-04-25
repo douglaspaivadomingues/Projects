@@ -85,15 +85,6 @@ Bora relembrar conceitos importantes para gerir suas emoções durante o projeto
 - Que tal dedicar um momento para aprimorar suas soft skills e impulsionar sua carreira? [Neste artigo](https://forbes.com.br/carreira/2023/05/5-passos-para-construir-e-aperfeicoar-seu-elevator-pitch/?utm_campaign=AP_Newsletter&utm_medium=email&_hsmi=261064564&_hsenc=p2ANqtz-_YmF_g7wNSS9-gRcNaAQzu4vw3Vut74ZdskdqMrK7W3PmKnAk4dm2gtsGUzSgew7OgowK4X_iYDXpVZmwv8s3AJYBtPQ&utm_content=261064564&utm_source=hs_email#foto1) da Forbes, você encontrará dicas valiosas para aperfeiçoar seu "elevator pitch" e causar uma ótima impressão nos processos seletivos.
 - Além disso, para se preparar ainda mais para as oportunidades, recomendamos criar um planejamento para divulgar seus projetos no Github e Linkedin. Confira [este conteúdo](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/2e0692c9-e226-4e95-860a-b4cad80e3c3c/section/d041930c-2861-493a-ab7e-9f566aa90d29/day/21747c38-dfaa-4103-99c1-e026f4405d3b/lesson/f8914f10-0491-4ca3-a6c9-680d44763eb6) sobre gestão de tempo, que irá te apoiar na organização, e [este](https://app.betrybe.com/learn/course/5e938f69-6e32-43b3-9685-c936530fd326/module/a3cac6d2-5060-445d-81f4-ea33451d8ea4/section/7b8bf759-4300-4ecc-a55d-52dbd44ee170/day/421938fc-56fc-44f4-9541-bedbb27f80f7/lesson/431f92b4-99b3-434e-91a1-d4845d0955f0) sobre publicações e marca pessoal, para criar uma publicação cativante e atrair a atenção no mercado!
 
-### Materiáis complementares
-
- - [ ] [Mentoria de JOIN]()
- - [ ] [Mentoria de JOI]()
- - [ ] [Mentoria vale a pena ver de novo HOF`s parte 1]()
- - [ ] [Revisão de seção]()
- - [ ] [Mentoria Promise All]()
- - [ ] [Mentoria Clientes HTTP]()
-
 ## Requisitos obrigatórios do Projeto
 
 - [ ] 01 - Crie endpoints para listar produtos
